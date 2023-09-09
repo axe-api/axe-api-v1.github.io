@@ -1,0 +1,40 @@
+img {
+  left: 0px;
+  right: 0px;
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+img.avatar-img {
+  position: unset !important;
+}
+
+p.description {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.5;
+  color: var(--vp-c-text-1);
+}
+
+ul.intro {
+  background-color: var(--vp-c-bg-soft);
+  border-radius: 10px;
+  padding: 20px 20px 20px 40px;
+}
+
+ul.intro > li {
+  padding-left: 0px;
+  margin-top: 5px;
+}
+
+ul.intro > li:first-child {
+  font-size: 20px;
+  font-weight: 500;
+  margin-left: -20px;
+  margin-bottom: 20px;
+}
+
+ul.intro > li:first-child::marker {
+  content: "";
+}
