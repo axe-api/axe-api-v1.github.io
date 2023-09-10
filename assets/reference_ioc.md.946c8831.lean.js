@@ -1,1 +1,0 @@
-import{_ as s,o as a,c as n,Q as o}from"./chunks/framework.18efe07a.js";const d=JSON.parse('{"title":"IoC","description":"","frontmatter":{},"headers":[],"relativePath":"reference/ioc.md","filePath":"reference/ioc.md"}'),l={name:"reference/ioc.md"},p=o("",34),e=[p];function t(c,r,y,E,i,F){return a(),n("div",null,e)}const h=s(l,[["render",t]]);export{d as __pageData,h as default};
