@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,Q as p}from"./chunks/framework.ddc2bfae.js";const d=JSON.parse('{"title":"App","description":"","frontmatter":{},"headers":[],"relativePath":"reference/app.md","filePath":"reference/app.md"}'),l={name:"reference/app.md"},o=p("",22),e=[o];function t(c,r,y,E,i,F){return a(),n("div",null,e)}const u=s(l,[["render",t]]);export{d as __pageData,u as default};

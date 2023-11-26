@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as a,Q as s}from"./chunks/framework.ddc2bfae.js";const m=JSON.parse('{"title":"Errors","description":"","frontmatter":{},"headers":[],"relativePath":"errors.md","filePath":"errors.md"}'),n={name:"errors.md"},l=s("",35),t=[l];function r(p,c,i,d,E,u){return a(),o("div",null,t)}const y=e(n,[["render",r]]);export{m as __pageData,y as default};
