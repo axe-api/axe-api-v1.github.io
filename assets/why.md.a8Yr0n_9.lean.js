@@ -1,0 +1,1 @@
+import{_ as e,o as i,c as a,R as t}from"./chunks/framework.FghLVCew.js";const b=JSON.parse('{"title":"Why?","description":"","frontmatter":{},"headers":[],"relativePath":"why.md","filePath":"why.md"}'),l={name:"why.md"},o=t("",7),r=[o];function n(s,d,u,h,c,p){return i(),a("div",null,r)}const m=e(l,[["render",n]]);export{b as __pageData,m as default};
