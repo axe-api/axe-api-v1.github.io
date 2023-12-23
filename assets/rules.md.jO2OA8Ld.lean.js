@@ -1,1 +1,0 @@
-import{_ as d,o as t,c as e,R as o}from"./chunks/framework.FghLVCew.js";const m=JSON.parse('{"title":"Rules","description":"","frontmatter":{},"headers":[],"relativePath":"rules.md","filePath":"rules.md"}'),c={name:"rules.md"},a=o("",86),r=[a];function i(l,n,h,u,s,b){return t(),e("div",null,r)}const p=d(c,[["render",i]]);export{m as __pageData,p as default};

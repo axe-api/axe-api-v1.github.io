@@ -1,1 +1,0 @@
-import{_ as a,o as t,c as r,R as i}from"./chunks/framework.FghLVCew.js";const c=JSON.parse('{"title":"Internationalization (i18n)","description":"","frontmatter":{},"headers":[],"relativePath":"i18n.md","filePath":"i18n.md"}'),e={name:"i18n.md"},s=i("",13),n=[s];function l(o,d,h,p,b,k){return t(),r("div",null,n)}const u=a(e,[["render",l]]);export{c as __pageData,u as default};
