@@ -1,1 +1,0 @@
-import{_ as s,c as i,o as a,U as n}from"./chunks/framework.HBrP2ODr.js";const y=JSON.parse('{"title":"IoC","description":"","frontmatter":{},"headers":[],"relativePath":"reference/ioc.md","filePath":"reference/ioc.md"}'),t={name:"reference/ioc.md"},h=n("",31),l=[h];function e(k,p,r,E,d,o){return a(),i("div",null,l)}const c=s(t,[["render",e]]);export{y as __pageData,c as default};
