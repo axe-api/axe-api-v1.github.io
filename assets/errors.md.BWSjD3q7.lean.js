@@ -1,0 +1,1 @@
+import{_ as a,c as s,am as i,o}from"./chunks/framework.WY5c5XXN.js";const E=JSON.parse('{"title":"Errors","description":"","frontmatter":{},"headers":[],"relativePath":"errors.md","filePath":"errors.md"}'),n={name:"errors.md"};function l(t,e,r,d,h,c){return o(),s("div",null,e[0]||(e[0]=[i("",35)]))}const u=a(n,[["render",l]]);export{E as __pageData,u as default};
