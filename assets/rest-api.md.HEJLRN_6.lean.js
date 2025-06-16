@@ -1,1 +1,0 @@
-import{_ as a,c as t,am as s,o as i}from"./chunks/framework.WY5c5XXN.js";const u=JSON.parse('{"title":"Rest API","description":"","frontmatter":{},"headers":[],"relativePath":"rest-api.md","filePath":"rest-api.md"}'),r={name:"rest-api.md"};function o(n,e,l,d,h,c){return i(),t("div",null,e[0]||(e[0]=[s("",45)]))}const f=a(r,[["render",o]]);export{u as __pageData,f as default};

@@ -1,0 +1,1 @@
+import{_ as a,c as s,o as i,am as o}from"./chunks/framework.BEq-SMh_.js";const E=JSON.parse('{"title":"Errors","description":"","frontmatter":{},"headers":[],"relativePath":"errors.md","filePath":"errors.md"}'),n={name:"errors.md"};function l(t,e,r,d,h,c){return i(),s("div",null,e[0]||(e[0]=[o("",35)]))}const u=a(n,[["render",l]]);export{E as __pageData,u as default};

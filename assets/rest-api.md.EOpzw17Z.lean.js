@@ -1,0 +1,1 @@
+import{_ as a,c as t,o as s,am as i}from"./chunks/framework.BEq-SMh_.js";const u=JSON.parse('{"title":"Rest API","description":"","frontmatter":{},"headers":[],"relativePath":"rest-api.md","filePath":"rest-api.md"}'),r={name:"rest-api.md"};function o(n,e,l,d,h,c){return s(),t("div",null,e[0]||(e[0]=[i("",45)]))}const f=a(r,[["render",o]]);export{u as __pageData,f as default};
